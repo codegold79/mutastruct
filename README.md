@@ -1,6 +1,6 @@
 # mutastruct
 
-Use the reflect package to make atypical changes to a struct.
+Use the reflect package to make changes to a struct in an atypical manner.
 
 To use, import the mutastruct package.
 
